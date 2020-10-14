@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica 4</string>
+    <string name="mainTitle">Registro Usuario</string>
+    <string name="curso">Introduccion al desarrollo de nuevas Plataformas</string>
+    <string name="profesor">Prof.: Ernesto Mauro Suarez Lopez</string>
+    <string name="CUI">CUI</string>
+    <string name="Nombre">Apellidos y Nombres</string>
+    <string name="Edad">Edad</string>
+    <string name="Correo">Correo</string>
+    <string name="Celular">Celular</string>
+    <string name="DNI">DNI</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
